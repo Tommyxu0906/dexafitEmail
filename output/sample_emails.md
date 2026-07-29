@@ -257,13 +257,13 @@ Hi Andre,
 
 Picking this back up since we first connected (referred two clients this spring).
 
-I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Chicago runs DEXA, RMR, and VO2 max scans, and afterward the client asks some version of "okay, what do I do about this?"
+I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Chicago runs DEXA, RMR, and VO2 max scans. Clients leave with objective data on body fat, visceral fat, and metabolic rate, and often nothing clinical happens next.
 
-Right now we mostly say "talk to your doctor." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached, so you can extend the care conversation without adding intake work or staff.
+We route those clients back to a small vetted group of clinicians, scan data attached. This is continuity of care after a scan we already ran, not a new patient funnel.
 
-No listing fee during the pilot. You accept only the referrals that fit your practice, and each one goes to you alone rather than to several clinics at once.
+Each client goes to one clinician, so ownership of the follow up is clear. During the pilot there is no cost, and you take only the referrals that fit your practice.
 
-We are taking 11 practices in Chicago. Worth fifteen minutes?
+Happy to send over how the routing and data handoff work, if that would be useful.
 
 Tommy
 ```
