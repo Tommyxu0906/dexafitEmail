@@ -1,0 +1,38 @@
+# Sample configuration for demonstration. In production these values come from
+# DexaFit's actual location footprint, scan volume, and demand data.
+# Every value here is a runtime campaign assumption, not a fact. Change it here,
+# never in the scripts.
+
+launch_markets:
+  - city: Boston
+    state: MA
+    location_name: DexaFit Boston
+    slots_remaining: 8
+  - city: Chicago
+    state: IL
+    location_name: DexaFit Chicago
+    slots_remaining: 11
+
+# Configurable starting points, not derived values.
+# Recalibrate after the first two hundred sends.
+# Raw scores are additive and can exceed 100. Cap the final value at 100.
+scoring_weights:
+  existing_relationship: 30
+  inbound_form: 25
+  partner_referral: 20
+  launch_market: 20
+  multi_provider_signal: 15
+  complete_profile: 10
+  high_classification_confidence: 5
+
+sequence_days:
+  e1: 0
+  e2: 3
+  e3: 8
+
+# Placeholder application link used when rendering the E2 and E3 calls to action.
+# Swap for the real founding cohort application URL before any live send.
+application_link: https://apply.dexafit.example/founding-cohort
+
+pilot:
+  exclude_waitlist_markets: true

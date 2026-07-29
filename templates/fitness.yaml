@@ -1,0 +1,60 @@
+profession: fitness
+value_prop: |
+  Trainers and coaches get a client with a measured baseline and a stated goal, so
+  they can program against real numbers and use the follow up scan to prove progress
+  and drive repeat retention.
+emails:
+  - id: e1
+    day: 0
+    purpose: Introduce the founding cohort offer and ask for fifteen minutes
+    subject_variants:
+      - arm: A
+        text: "Referrals from {nearest_location} clients who already have their baseline numbers"
+        hypothesis: provider benefit
+      - arm: B
+        text: "{slots_remaining} coaching slots in {city}"
+        hypothesis: founding cohort scarcity
+    body: |
+      Hi {first_name},
+
+      {opener}
+
+      I work with DexaFit, the body composition and metabolic testing clinics. {nearest_location} runs DEXA, RMR, and VO2 max scans, and afterward the client asks some version of "okay, what should I train for now?"
+
+      Today we just say "find a good coach." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached, so you can set goals against a real baseline and prove progress on the re scan.
+
+      No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five coaches at once.
+
+      We are taking {slots_remaining} coaches in {city}. Worth fifteen minutes?
+
+      Tommy
+  - id: e2
+    day: 3
+    purpose: Make one referral concrete and point to the application
+    subject: "What one of these referrals actually looks like"
+    body: |
+      Hi {first_name},
+
+      Quick follow up with something concrete, since "referral" means very little on its own.
+
+      A client comes in for a DEXA scan. We measure body fat percentage, lean mass by region, and resting metabolic rate. In the results consultation they see exactly where they stand and ask how to change it.
+
+      That is the point we would route them to you. You get their name, their goal, and the baseline before the first session, so you can program against numbers instead of guesses and book a re scan to show the result.
+
+      If that is the kind of client you want more of, here is the application: {link}. Two minutes, and I will personally review it.
+
+      Tommy
+  - id: e3
+    day: 8
+    purpose: Short close with an explicit low friction out
+    subject: "Closing the {city} group this week"
+    body: |
+      Hi {first_name},
+
+      We are finalizing the {city} founding group this week, so this is my last note about it.
+
+      If the timing is wrong, no problem at all. Reply "later" and I will check back when we open the next round.
+
+      If you want in: {link}
+
+      Tommy

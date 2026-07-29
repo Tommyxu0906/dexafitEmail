@@ -1,0 +1,60 @@
+profession: clinical
+value_prop: |
+  Physicians and clinics get to extend the patient journey without adding intake work
+  or staff, opening the next conversation from measured data the client already paid
+  to collect.
+emails:
+  - id: e1
+    day: 0
+    purpose: Introduce the founding cohort offer and ask for fifteen minutes
+    subject_variants:
+      - arm: A
+        text: "Referrals from {nearest_location} clients who arrive with their scan data"
+        hypothesis: provider benefit
+      - arm: B
+        text: "{slots_remaining} clinical slots in {city}"
+        hypothesis: founding cohort scarcity
+    body: |
+      Hi {first_name},
+
+      {opener}
+
+      I work with DexaFit, the body composition and metabolic testing clinics. {nearest_location} runs DEXA, RMR, and VO2 max scans, and afterward the client asks some version of "okay, what do I do about this?"
+
+      Right now we mostly say "talk to your doctor." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached, so you can extend the care conversation without adding intake work or staff.
+
+      No listing fee during the pilot. You accept only the referrals that fit your practice, and each one goes to you alone rather than to several clinics at once.
+
+      We are taking {slots_remaining} practices in {city}. Worth fifteen minutes?
+
+      Tommy
+  - id: e2
+    day: 3
+    purpose: Make one referral concrete and point to the application
+    subject: "What one of these referrals actually looks like"
+    body: |
+      Hi {first_name},
+
+      Quick follow up with something concrete, since "referral" means very little on its own.
+
+      A client comes in for a DEXA scan. We measure body fat percentage, lean mass by region, visceral fat, and resting metabolic rate. In the results consultation they learn where they stand and ask what to do next.
+
+      That is the point we would route them to you. You receive their name, their stated goal, and the scan data before the first visit, so the conversation starts from measured data rather than a blank intake and does not add work for your staff.
+
+      If that fits your practice, here is the application: {link}. Two minutes, and I will personally review it.
+
+      Tommy
+  - id: e3
+    day: 8
+    purpose: Short close with an explicit low friction out
+    subject: "Closing the {city} group this week"
+    body: |
+      Hi {first_name},
+
+      We are finalizing the {city} founding group this week, so this is my last note about it.
+
+      If the timing is wrong, no problem at all. Reply "later" and I will check back when we open the next round.
+
+      If you want in: {link}
+
+      Tommy

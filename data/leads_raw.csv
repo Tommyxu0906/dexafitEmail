@@ -1,0 +1,51 @@
+lead_id,full_name,email,job_title,practice_name,city,state,website,source,notes
+L001,Dana Whitfield,dana.whitfield@balancenutrition.example,RD,Balance Nutrition Boston,Boston,MA,https://balancenutrition.example,partner_referral,met at Boston open house in May
+L002,Marcus Feld,marcus@ironlinefitness.example,CPT,Ironline Fitness,Boston,MA,https://ironlinefitness.example,web_scrape,
+L003,Priya Nadkarni,priya.nadkarni@backbaymed.example,"MD, Internal Medicine",Back Bay Internal Medicine,Boston,MA,https://backbaymed.example,event_signup,spoke at our Boston metabolic health panel
+L004,Colin Reyes,colin.reyes@peakrd.example,"RDN, CSSD",Peak Sports Nutrition,Boston,MA,https://peakrd.example,inbound_form,
+L005,Sarah Kim,sarah.kim@vitalcoaching.example,Health Coach,Vital Coaching,Boston,MA,https://vitalcoaching.example,web_scrape,
+L006,Tomas Herrera,t.herrera@northendstrength.example,Strength Coach,North End Strength,Boston,MA,https://northendstrength.example,partner_referral,referred a client to us in March
+L007,Angela Brooks,angela.brooks@charlesrivernutrition.example,Registered Dietitian,Charles River Nutrition Group,Boston,MA,https://charlesrivernutrition.example,web_scrape,
+L008,Devin OMalley,devin@commonwealthpt.example,Owner / Personal Trainer,Commonwealth Personal Training,Boston,MA,https://commonwealthpt.example,event_signup,
+L009,Rachel Stein,rachel.stein@fenwayfamilymed.example,DO,Fenway Family Medicine,Boston,MA,https://fenwayfamilymed.example,web_scrape,
+L010,Grace Liu,grace.liu@seaportwellness.example,Wellness Director,Seaport Wellness Collective,Boston,MA,https://seaportwellness.example,web_scrape,
+L011,Nathan Cole,nathan.cole@lakeshoredietetics.example,RD,Lakeshore Dietetics,Chicago,IL,https://lakeshoredietetics.example,partner_referral,met at Chicago open house
+L012,Bianca Ferraro,bianca@westloopstrength.example,Personal Trainer,West Loop Strength,Chicago,IL,https://westloopstrength.example,web_scrape,
+L013,Samuel Adeyemi,samuel.adeyemi@goldcoastmed.example,"MD, Internal Medicine",Gold Coast Internal Medicine,Chicago,IL,https://goldcoastmed.example,inbound_form,
+L014,Erin Fowler,erin.fowler@rivernorthnutrition.example,Nutritionist,River North Nutrition,Chicago,IL,https://rivernorthnutrition.example,event_signup,requested info after our Chicago event
+L015,Jordan Michaels,jordan@performlab.example,Director of Performance,PerformLab Chicago,Chicago,IL,https://performlab.example,web_scrape,
+L016,Kelly Nakamura,kelly.nakamura@wickerparkpt.example,CPT,Wicker Park Personal Training,Chicago,IL,https://wickerparkpt.example,web_scrape,
+L017,Andre Dubois,andre.dubois@southloopclinic.example,Physician Assistant,South Loop Family Clinic,Chicago,IL,https://southloopclinic.example,partner_referral,referred two clients this spring
+L018,Melanie Ross,melanie.ross@evanstonnutrition.example,Registered Dietitian,Evanston Nutrition Partners,Chicago,IL,https://evanstonnutrition.example,web_scrape,
+L019,Victor Pang,victor@loopwellness.example,Founder,Loop Wellness,Chicago,IL,https://loopwellness.example,web_scrape,
+L020,Hannah Berg,hannah.berg@lincolnparkrd.example,Nutrition Coach,Lincoln Park Nutrition,Chicago,IL,https://lincolnparkrd.example,inbound_form,
+L021,Owen Pratt,owen.pratt@bostonbariatric.example,MD,Boston Bariatric and Metabolic,Boston,MA,https://bostonbariatric.example,web_scrape,
+L022,Leah Sorensen,leah.sorensen@midwaystrength.example,Performance Coach,Midway Strength Co,Chicago,IL,https://midwaystrength.example,event_signup,
+L023,Isabel Cruz,isabel.cruz@backbayrd.example,"RDN, CSSD",Back Bay Sports Dietetics,Boston,MA,https://backbayrd.example,partner_referral,connected at DexaFit Boston launch
+L024,Derek Mun,derek.mun@northsidecpt.example,CPT,Northside Training,Chicago,IL,https://northsidecpt.example,web_scrape,
+L025,Farah Haddad,farah.haddad@wellspringclinic.example,NP,Wellspring Primary Care,Boston,MA,https://wellspringclinic.example,web_scrape,
+L026,Gregory Vance,greg.vance@pilsenperformance.example,Strength Coach,Pilsen Performance,Chicago,IL,https://pilsenperformance.example,web_scrape,
+L027,Naomi Feldman,naomi.feldman@beaconnutrition.example,Health Coach,Beacon Nutrition,Boston,MA,https://beaconnutrition.example,web_scrape,
+L028,Paul Okafor,paul.okafor@uptownwellness.example,Wellness Director,Uptown Wellness Center,Chicago,IL,https://uptownwellness.example,web_scrape,
+L029,Cynthia Barrow,cynthia.barrow@harborrd.example,Registered Dietitian,Harbor Dietetics,Boston,MA,https://harborrd.example,inbound_form,
+L030,Malik Turner,malik.turner@westtownpt.example,Owner / Personal Trainer,West Town PT,Chicago,IL,https://westtownpt.example,partner_referral,met at Chicago open house and keen to join
+L031,Rebecca Lyons,rebecca.lyons@midtownnutrition.example,RD,Midtown Nutrition,New York,NY,https://midtownnutrition.example,web_scrape,
+L032,Cody Bramble,cody.bramble@atxstrength.example,CPT,ATX Strength,Austin,TX,https://atxstrength.example,web_scrape,
+L033,Alicia Monroe,alicia.monroe@milehighmed.example,"MD, Internal Medicine",Mile High Internal Medicine,Denver,CO,https://milehighmed.example,web_scrape,
+L034,Trevor Nash,trevor.nash@emeraldnutrition.example,Nutritionist,Emerald Nutrition,Seattle,WA,https://emeraldnutrition.example,event_signup,
+L035,Simone Delacroix,simone@westsideperformance.example,Performance Coach,Westside Performance,Los Angeles,CA,https://westsideperformance.example,web_scrape,
+L036,Hector Ramos,hector.ramos@brickellclinic.example,DO,Brickell Family Medicine,Miami,FL,https://brickellclinic.example,web_scrape,
+L037,Jenna Wilde,jenna.wilde@rosecitynutrition.example,Nutrition Coach,Rose City Nutrition,Portland,OR,https://rosecitynutrition.example,inbound_form,
+L038,Kevin Zhao,kevin.zhao@bayperformance.example,Strength Coach,Bay Performance,San Francisco,CA,https://bayperformance.example,web_scrape,
+L039,Brooke Hensley,brooke.hensley@musiccitywellness.example,Health Coach,Music City Wellness,Nashville,TN,https://musiccitywellness.example,web_scrape,
+L040,Diego Salazar,diego.salazar@desertsportsmed.example,Physician Assistant,Desert Sports Medicine,Phoenix,AZ,https://desertsportsmed.example,web_scrape,
+L041,Monica Reed,monica.reed@peachtreerd.example,"RDN, CSSD",Peachtree Sports Nutrition,Atlanta,GA,https://peachtreerd.example,partner_referral,
+L042,Ryan Coleman,ryan.coleman@trinitytraining.example,Personal Trainer,Trinity Training,Dallas,TX,https://trinitytraining.example,web_scrape,
+L043,Astrid Lindqvist,astrid.lindqvist@northloopnutrition.example,Registered Dietitian,North Loop Nutrition,Minneapolis,MN,https://northloopnutrition.example,web_scrape,
+L044,Curtis Vaughn,curtis.vaughn@pacificperformance.example,Director of Performance,Pacific Performance Institute,San Diego,CA,https://pacificperformance.example,web_scrape,
+L045,Tanya Brooks,tanya.brooks@libertywellness.example,Founder,Liberty Wellness,Philadelphia,PA,https://libertywellness.example,web_scrape,
+L046,Elena Vargas,elena.vargas@bayoucitymed.example,MD,Bayou City Internal Medicine,Houston,TX,https://bayoucitymed.example,web_scrape,
+L047,Brandon Pace,brandon.pace@queencitycpt.example,CPT,Queen City Training,Charlotte,NC,https://queencitycpt.example,web_scrape,
+L048,Gloria Santana,,Nutrition Coach,Sunrise Nutrition,Tampa,FL,https://sunrisenutrition.example,web_scrape,
+L049,Wesley Grant,wesley.grant@peakformpt.example,Personal Trainer,PeakForm PT,,,https://peakformpt.example,web_scrape,
+L050,Dana Whitfield,dana.whitfield@balancenutrition.example,RD,Balance Nutrition,Boston,MA,,web_scrape,

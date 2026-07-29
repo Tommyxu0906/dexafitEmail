@@ -1,0 +1,60 @@
+profession: nutrition
+value_prop: |
+  Nutritionists get a client who arrives already holding objective body composition
+  data and actively asking what to do next, so the first session starts on the plan
+  instead of on intake questions.
+emails:
+  - id: e1
+    day: 0
+    purpose: Introduce the founding cohort offer and ask for fifteen minutes
+    subject_variants:
+      - arm: A
+        text: "Referrals from {nearest_location} clients who already have their body comp data"
+        hypothesis: provider benefit
+      - arm: B
+        text: "{slots_remaining} nutritionist slots in {city}"
+        hypothesis: founding cohort scarcity
+    body: |
+      Hi {first_name},
+
+      {opener}
+
+      I work with DexaFit, the body composition and metabolic testing clinics. {nearest_location} runs DEXA, RMR, and VO2 max scans, and after every one of them the client asks some version of "okay, so what do I do now?"
+
+      Right now we mostly say "find a good nutritionist." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached.
+
+      No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five people at once.
+
+      We are taking {slots_remaining} nutritionists in {city}. Worth fifteen minutes?
+
+      Tommy
+  - id: e2
+    day: 3
+    purpose: Make one referral concrete and point to the application
+    subject: "What one of these referrals actually looks like"
+    body: |
+      Hi {first_name},
+
+      Quick follow up with something concrete, since "referral" means very little on its own.
+
+      A client comes in for a DEXA scan. We measure body fat percentage, lean mass by region, visceral fat, and resting metabolic rate. They sit down for a results consultation, find out their RMR is lower than they assumed and that they have lost lean mass over the past year, and they ask what to do about it.
+
+      That is the point we would route them to you. You get their name, their goal, and the scan data before the first conversation. No intake guesswork, and no convincing them the problem is real, because they just paid to measure it.
+
+      If that is the kind of client you want more of, here is the application: {link}. Two minutes, and I will personally review it.
+
+      Tommy
+  - id: e3
+    day: 8
+    purpose: Short close with an explicit low friction out
+    subject: "Closing the {city} group this week"
+    body: |
+      Hi {first_name},
+
+      We are finalizing the {city} founding group this week, so this is my last note about it.
+
+      If the timing is wrong, no problem at all. Reply "later" and I will check back when we open the next round.
+
+      If you want in: {link}
+
+      Tommy
