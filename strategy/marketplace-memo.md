@@ -2,7 +2,7 @@
 
 Tommy Xu | Prepared for Hamza Masaeed and Adam | July 2026
 
-**Working repo:** github.com/[username]/dexafit-provider-gtm
+**Working repo:** github.com/Tommyxu0906/dexafitEmail
 
 ---
 
