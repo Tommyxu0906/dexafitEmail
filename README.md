@@ -4,9 +4,10 @@ A small, readable pipeline that turns a messy list of healthcare provider leads 
 personalized, segmented outreach for the DexaFit provider marketplace. It runs
 end to end on committed mock data with no API keys.
 
-**The strategy sits in the memo, not here:** [strategy/marketplace-memo.md](strategy/marketplace-memo.md).
-That is the primary deliverable. It covers what DexaFit is selling, how a referral is
-priced, the tier structure, and why the launch is deliberately capped. The machine
+**The strategy sits in the memo, not here:** [strategy/marketplace-memo.md](strategy/marketplace-memo.md)
+([PDF](strategy/marketplace-memo.pdf), 4 pages). That is the primary deliverable. It
+covers what DexaFit is selling, how a referral is priced, the tier structure, and why the
+launch is deliberately capped. The machine
 readable tier table is [strategy/pricing_model.csv](strategy/pricing_model.csv). This
 README documents the **workflow** that operationalizes it, so it does not repeat the
 pricing rationale or pilot design. Read the memo first. Everything below runs on 50
@@ -177,12 +178,18 @@ Three touches, not five. The offer is strong enough that it does not need six we
 nurture, and a short sequence gets through the list and learns faster. Timing lives in
 `config/campaign.yaml` (`e1` day 0, `e2` day 3, `e3` day 8). One template per category
 in `templates/` carries the right value proposition: nutrition gets a client who arrives
-with data, fitness gets measurable goals and re scan retention, clinical gets an
-extended patient journey without added staff.
+with data, fitness gets measurable goals and re scan retention, clinical gets continuity
+of care, meaning a client the practice already has data on routed back for follow up.
 
-The CTA escalates then de escalates on purpose. E1 asks for fifteen minutes, E2 makes
-one referral concrete and points to the application, E3 steps commitment back down with
-an explicit out, replying "later". The founding offer waives the listing fee during the
+The CTA escalates then de escalates on purpose. E1 opens low friction, E2 makes one
+referral concrete and points to the application, E3 steps commitment back down with an
+explicit out, replying "later".
+
+**Clinical does not use the same E1 ask.** Nutrition and fitness close on "worth fifteen
+minutes?", which suits a solo practitioner who books their own calendar. A physician
+referral decision is rarely made that way, so clinical closes by offering information
+instead, "happy to send over how the routing and data handoff work". Same sequence
+structure, different ask, because the buying process is different. The founding offer waives the listing fee during the
 pilot, so no email mentions the post pilot `$99` or `$249`. The copy may say a referral
 is exclusive, a product decision DexaFit controls, but it never promises referral
 volume, because supply is the binding constraint and we cannot prove volume yet.

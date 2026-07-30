@@ -76,7 +76,7 @@ Launch narrow: fat loss nutrition, metabolic health, sports performance, and pos
 
 ## 5. Provider acquisition: working the 1,000 leads
 
-**Segmentation, applied in this order.** Profession first, since the value proposition differs: nutritionists want clients who arrive with data, trainers want measurable goals and rescan driven retention, physicians and clinics want to extend the patient journey without adding staff. Then relationship temperature, warm versus cold, which changes the first line and shortens the sequence. Then market priority, since leads outside launch markets go into a waitlist sequence that also reinforces the density cap.
+**Segmentation, applied in this order.** Profession first, since the value proposition differs: nutritionists want clients who arrive with data, trainers want measurable goals and rescan driven retention, physicians and clinics want continuity of care, meaning a client they already hold data on routed back for follow up. The clinical track also uses a different call to action, since a physician referral decision is not made by booking a fifteen minute call. Then relationship temperature, warm versus cold, which changes the first line and shortens the sequence. Then market priority, since leads outside launch markets go into a waitlist sequence that also reinforces the density cap.
 
 Sending one campaign to all 1,000 would waste the list and, more importantly, generate demand we cannot fulfill.
 
