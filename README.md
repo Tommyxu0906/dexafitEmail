@@ -190,9 +190,13 @@ minutes?", which suits a solo practitioner who books their own calendar. A physi
 referral decision is rarely made that way, so clinical closes by offering information
 instead, "happy to send over how the routing and data handoff work". Same sequence
 structure, different ask, because the buying process is different. The founding offer waives the listing fee during the
-pilot, so no email mentions the post pilot `$99` or `$249`. The copy may say a referral
-is exclusive, a product decision DexaFit controls, but it never promises referral
-volume, because supply is the binding constraint and we cannot prove volume yet.
+pilot, so no email mentions the post pilot `$99` or `$249`. Two copy boundaries are
+enforced deliberately. The copy describes routing as **one provider at a time and non
+auctioned**, never as permanent exclusivity, because a referral that is declined or
+ignored must be able to move to the next qualified match. And it never promises referral
+volume, because supply is the binding constraint and we cannot prove volume yet. Scan
+data is always described as shared **with the client's permission**, since consent gates
+any real referral.
 
 Only E1 carries a subject line A/B test: two arms testing provider benefit against
 founding cohort scarcity, with the same two hypotheses across all three categories so
@@ -237,11 +241,12 @@ so nothing needs clicking through.
 > some version of "okay, so what do I do now?"
 >
 > Right now we mostly say "find a good nutritionist." We are changing that. We are
-> building a small vetted group we route those clients to directly, with their scan data
-> attached.
+> building a small vetted group we route those clients to directly. With the client's
+> permission, you receive their stated goal and a secure scan summary before the first
+> conversation.
 >
 > No listing fee during the pilot. You pay only when you accept a referral, and each one
-> goes to you alone rather than to five people at once.
+> goes to one provider at a time rather than to five people at once.
 >
 > We are taking 8 nutritionists in Boston. Worth fifteen minutes?
 >
@@ -260,11 +265,12 @@ so nothing needs clicking through.
 > of "okay, what should I train for now?"
 >
 > Today we just say "find a good coach." We are changing that. We are building a small
-> vetted group we route those clients to directly, with their scan data attached, so you
-> can set goals against a real baseline and prove progress on the re scan.
+> vetted group we route those clients to directly. With the client's permission, you
+> receive their stated goal and a secure scan summary, so you can set goals against a
+> real baseline and prove progress on the re scan.
 >
 > No listing fee during the pilot. You pay only when you accept a referral, and each one
-> goes to you alone rather than to five coaches at once.
+> goes to one coach at a time rather than to five at once.
 >
 > We are taking 8 coaches in Boston. Worth fifteen minutes?
 >
@@ -295,7 +301,11 @@ data rather than guessed at now:
 
 - **Deliverability:** domain warming, sending infrastructure, list validation. Required
   before any real send, but it is execution, not strategy.
-- **Consent and compliance review** of the list before contact.
+- **Client consent design, secure health data sharing, and privacy and compliance
+  review.** The copy commits to sharing a scan summary only with the client's
+  permission. Designing that consent step and the secure handoff that carries it gates
+  any real referral, and needs specialist input rather than a guess here.
+- **Consent and compliance review** of the provider list before contact.
 - **Reply classification** and the CRM and suppression sync that follows it.
 - **Real ESP integration.** The render step stops at message text.
 

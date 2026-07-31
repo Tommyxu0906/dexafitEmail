@@ -19,9 +19,9 @@ Picking this back up since we first connected (met at Boston open house in May).
 
 I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Boston runs DEXA, RMR, and VO2 max scans, and after every one of them the client asks some version of "okay, so what do I do now?"
 
-Right now we mostly say "find a good nutritionist." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached.
+Right now we mostly say "find a good nutritionist." We are changing that. We are building a small vetted group we route those clients to directly. With the client's permission, you receive their stated goal and a secure scan summary before the first conversation.
 
-No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five people at once.
+No listing fee during the pilot. You pay only when you accept a referral, and each one goes to one provider at a time rather than to five people at once.
 
 We are taking 8 nutritionists in Boston. Worth fifteen minutes?
 
@@ -79,9 +79,9 @@ Came across Peak Sports Nutrition and your focus on sports nutrition.
 
 I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Boston runs DEXA, RMR, and VO2 max scans, and after every one of them the client asks some version of "okay, so what do I do now?"
 
-Right now we mostly say "find a good nutritionist." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached.
+Right now we mostly say "find a good nutritionist." We are changing that. We are building a small vetted group we route those clients to directly. With the client's permission, you receive their stated goal and a secure scan summary before the first conversation.
 
-No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five people at once.
+No listing fee during the pilot. You pay only when you accept a referral, and each one goes to one provider at a time rather than to five people at once.
 
 We are taking 8 nutritionists in Boston. Worth fifteen minutes?
 
@@ -139,9 +139,9 @@ Picking this back up since we first connected (referred a client to us in March)
 
 I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Boston runs DEXA, RMR, and VO2 max scans, and afterward the client asks some version of "okay, what should I train for now?"
 
-Today we just say "find a good coach." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached, so you can set goals against a real baseline and prove progress on the re scan.
+Today we just say "find a good coach." We are changing that. We are building a small vetted group we route those clients to directly. With the client's permission, you receive their stated goal and a secure scan summary, so you can set goals against a real baseline and prove progress on the re scan.
 
-No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five coaches at once.
+No listing fee during the pilot. You pay only when you accept a referral, and each one goes to one coach at a time rather than to five at once.
 
 We are taking 8 coaches in Boston. Worth fifteen minutes?
 
@@ -199,9 +199,9 @@ Reaching out to a few coaches in Boston.
 
 I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Boston runs DEXA, RMR, and VO2 max scans, and afterward the client asks some version of "okay, what should I train for now?"
 
-Today we just say "find a good coach." We are changing that. We are building a small vetted group we route those clients to directly, with their scan data attached, so you can set goals against a real baseline and prove progress on the re scan.
+Today we just say "find a good coach." We are changing that. We are building a small vetted group we route those clients to directly. With the client's permission, you receive their stated goal and a secure scan summary, so you can set goals against a real baseline and prove progress on the re scan.
 
-No listing fee during the pilot. You pay only when you accept a referral, and each one goes to you alone rather than to five coaches at once.
+No listing fee during the pilot. You pay only when you accept a referral, and each one goes to one coach at a time rather than to five at once.
 
 We are taking 8 coaches in Boston. Worth fifteen minutes?
 
@@ -259,9 +259,9 @@ Picking this back up since we first connected (referred two clients this spring)
 
 I work with DexaFit, the body composition and metabolic testing clinics. DexaFit Chicago runs DEXA, RMR, and VO2 max scans. Clients leave with objective data on body fat, visceral fat, and metabolic rate, and often nothing clinical happens next.
 
-We route those clients back to a small vetted group of clinicians, scan data attached. This is continuity of care after a scan we already ran, not a new patient funnel.
+We route those clients back to a small vetted group of clinicians. With the client's permission, you receive their stated goal and a secure scan summary before the first conversation. This is continuity of care after a scan we already ran, not a new patient funnel.
 
-Each client goes to one clinician, so ownership of the follow up is clear. During the pilot there is no cost, and you take only the referrals that fit your practice.
+Each client goes to one clinician at a time, so ownership of the follow up is clear. During the pilot there is no listing fee, and you take only the referrals that fit your practice.
 
 Happy to send over how the routing and data handoff work, if that would be useful.
 
