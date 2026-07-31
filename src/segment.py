@@ -196,7 +196,10 @@ def main():
 def print_summary(df):
     def block(title, series):
         print(title)
-        for k, v in series.items():
+        # Sort by count descending, then label ascending. value_counts leaves the
+        # order of tied counts unspecified, which made this summary vary between
+        # runs. The README quotes this output verbatim, so it has to be stable.
+        for k, v in sorted(series.items(), key=lambda kv: (-kv[1], str(kv[0]))):
             label = k if str(k).strip() else "(blank)"
             print("  {:<28} {}".format(label, v))
         print()
