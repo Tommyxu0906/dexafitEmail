@@ -2,7 +2,7 @@
 
 Tommy Xu | Prepared for Hamza Masaeed and Adam | July 2026
 
-**Working repo:** github.com/Tommyxu0906/dexafitEmail
+**Working repo:** [github.com/Tommyxu0906/dexafitEmail](https://github.com/Tommyxu0906/dexafitEmail)
 
 ---
 
@@ -12,11 +12,11 @@ The asset is not a directory. It is the ninety seconds after a client sees their
 
 That moment is rare and expensive to manufacture. A nutritionist running paid ads is buying attention from someone who might want to change their body. DexaFit can hand that same nutritionist a person who has already paid to measure their body, already sat through the results conversation, and is actively asking what to do next.
 
-So the product is not a listing. It is **one provider at a time, non auctioned routing of a qualified, data attached, high intent referral at the moment of decision.** Every decision below follows from that.
+So the product is not a listing. It is **one provider at a time, non auctioned routing of a qualified, scan informed, high intent referral at the moment of decision.** Every decision below follows from that.
 
 The practical consequence, and the theme of this memo: **our binding constraint is referral supply, not provider demand.** There are far more providers who want clients than there are scans producing referrals.
 
-**Assumptions.** I did not have DexaFit's scan volume, opt in rate, or existing referral behavior, so I parameterized those. Everything else comes from public benchmarks and is named. Give me the real numbers and I will rerun the model.
+**Assumptions.** I did not have DexaFit's scan volume, opt in rate, or existing referral behavior, so I parameterized those. The remaining figures are directional public benchmarks and should be validated before launch. Give me the real numbers and I will rerun the model.
 
 ---
 
@@ -46,7 +46,7 @@ Using a one in three conversion rate as a working assumption, a provider who can
 
 A $99 per month listing is easy to justify on paper. At $900 lifetime value a provider needs slightly more than one new client a year to break even. The arithmetic is not the obstacle. **Belief is.** No provider has seen a DexaFit referral yet, so a monthly fee asks them to pay for volume we cannot prove. Charging subscription before we have conversion data is the most common way early marketplaces stall: supply signs up, sees nothing, and churns loudly.
 
-**Phase 1, first 90 days.** No listing fee. $60 per accepted referral, invoiced monthly. The provider carries zero risk and pays only for something real. DexaFit gets what it actually needs, which is conversion data by category and market.
+**Phase 1, first 90 days.** No listing fee. $60 per accepted referral, invoiced monthly. The provider takes no upfront listing risk and pays only after accepting a referral. DexaFit gets what it actually needs, which is conversion data by category and market.
 
 **Phase 2, after 90 days.** Convert the cohort with their own numbers in hand. "Last quarter you accepted nine referrals and paid $540." Featured combines a monthly platform fee with direct routing eligibility and preferred referral pricing. The final packaging should be based on pilot conversion and capacity data. They are not being sold a promise, they are being offered better terms on something they already buy.
 
@@ -100,7 +100,7 @@ Sending one campaign to all 1,000 would waste the list and, more importantly, ge
 
 ## 6. Measurement
 
-**Acquisition:** positive reply rate by segment, application rate, meetings booked, approved provider rate meaning applications that clear vetting, and paid conversion at day 90. I would not report open rate. Since mail privacy protection it mostly measures image proxy prefetching, and optimizing subject lines against it produces false winners.
+**Acquisition:** positive reply rate by segment, application rate, meetings booked, approved provider rate meaning applications that clear vetting, and paid conversion at day 90. I would not report open rate. Because of mail privacy protection, open rate often reflects image proxy prefetching rather than genuine engagement, and optimizing subject lines against it produces false winners.
 
 **Marketplace health:** referrals routed per provider per month, provider response time to a routed referral, referral to booked appointment rate, referral to paying client rate, and client satisfaction with the match.
 
@@ -117,7 +117,7 @@ The single most important early number is **referrals per provider per month.** 
 | Interested providers | 36 | 72 | 120 |
 | Clear vetting and fit | 25 | 50 | 80 |
 | Paying at day 90 | 8 | 20 | 35 |
-| First cohort ARR at $99 | ~$9.5k | ~$23.8k | ~$41.6k |
+| Subscription ARR at $99, excluding referral fees | ~$9.5k | ~$23.8k | ~$41.6k |
 
 **The first 1,000 leads are a validation cohort, not the full revenue opportunity.** Even the upside case is under $50k ARR. These leads are worth working because they produce the first cohort and the objection data that tells us whether the model works, not because they are a revenue event.
 
